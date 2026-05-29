@@ -1,0 +1,4 @@
+interface:
+  display_name: "Init Rules"
+  short_description: "Install ai-rules into project rules/"
+  default_prompt: "Use $init-rules to install the cloudofgeorge/ai-rules repository into this project rules folder."
